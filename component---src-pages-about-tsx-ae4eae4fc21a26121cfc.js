@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpatrick_hladun_photography=self.webpackChunkpatrick_hladun_photography||[]).push([[49],{3691:function(t,e,a){a.r(e);var n=a(7294),o={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"},r={marginTop:0,marginBottom:64,maxWidth:320};e.default=function(){return n.createElement("main",{style:o},n.createElement("title",null,"About Page"),n.createElement("h1",{style:r},"About"))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-ae4eae4fc21a26121cfc.js.map
