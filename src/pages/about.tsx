@@ -1,5 +1,5 @@
 import * as React from "react"
-import Header from '../components/Header';
+
 // styles
 const pageStyles = {
   color: "#232129",
@@ -13,16 +13,13 @@ const headingStyles = {
 }
 
 // markup
-const IndexPage = () => {
+const AboutPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
-
-      <Header />
-
-      <h1 style={headingStyles}>Patrick Hladun Photography</h1>
+      <title>About Page</title>
+      <h1 style={headingStyles}>About</h1>
     </main>
   )
 }
 
-export default IndexPage
+export default AboutPage
